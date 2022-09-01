@@ -1,0 +1,10 @@
+bak.*
+*.bak
+*.tex
+*.aux
+*.log
+*.pdf
+insert
+TODO
+__pycache__
+*.swp
